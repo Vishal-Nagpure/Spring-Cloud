@@ -11,6 +11,8 @@
 
     <modules>
         <module>spring-cloud-config</module>
+        <module>spring-cloud-config-git</module>
+        <module>application-config</module>
     </modules>
 
 </project>
